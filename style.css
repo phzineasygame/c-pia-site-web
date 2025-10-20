@@ -1,0 +1,16 @@
+img{
+    position: relative;
+    left: 100px;
+    top: 120px;
+    width: 450px;
+    height: 450px;
+}
+body{
+    background-color: white;
+}
+
+h1{
+margin-left: 950px;
+margin-top: -300px;
+font-size: 60px;
+}
